@@ -1,8 +1,3 @@
-<img align='right' src="Assets/5CHiPSET.png"width="230">
-
-
-
-
 ## ABOUT US.
 
 ### CHiPSET is a Collaboration of Hackers, Innovators, Programmers, Script writers, Entrepreneurs, and Technocrats. We are a non-profit organization with a zeal for making changes in the world by harvesting talents of unique individuals across all domains. Our objective is to create awareness about latest and important technical advancements by collaborating with young innovative minds across disciplines. Through this , we aim at generating innovative ideas and inventions in the field of technology.  We collaborate with talented minds to synergize our passion and form a long lasting bond.
