@@ -1,5 +1,6 @@
-<div align="center">
 <img align='right' src="Assets/5CHiPSET.png"width="230">
+
+
 
 
 ## ABOUT US.
